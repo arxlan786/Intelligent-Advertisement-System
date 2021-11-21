@@ -1,0 +1,10 @@
+# pip install -r requirements.txt (Python -V 3.8.10)
+
+# Base ----------------------------------------
+opencv-python
+cvlib==0.2.6
+numpy==1.18.5
+Keras==2.4.3
+tensorflow==2.3.4
+pywin32
+Pillow
